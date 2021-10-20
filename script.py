@@ -108,5 +108,3 @@ def run_script(account,password):
 
     # 關閉瀏覽器
     browser.close()
-
-run_script("rice_bug_j","jk456123")
