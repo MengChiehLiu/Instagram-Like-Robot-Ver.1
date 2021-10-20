@@ -1,3 +1,10 @@
 # Instgram_Like_Robot_Ver.1
 
-自動洗讚機器人，一次洗讚大約可按36篇。
+自動洗讚機器人，一次大約可按36篇愛心。
+需更改處: 
+
+(29行) username_input.send_keys("account")    #你的IG帳號
+(30行) password_input.send_keys("password")   #你的IG密碼
+
+(59行) url_main_page = 'https://www.instagram.com/XXXXXXXXX/'   #你想洗讚的網頁(個人首頁)
+
