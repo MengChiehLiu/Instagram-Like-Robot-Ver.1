@@ -1,5 +1,5 @@
 """
-Instgram_Like_Robot (Ver.1)
+Instagram_Like_Robot (Ver.1)
 Created by MJ. Liu
 2021/10/21
 """
