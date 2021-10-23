@@ -23,4 +23,4 @@ chromedriver.exe == 94.0.4606.61
 
 # 其他
 
-可自行加入留言功能，請參考: https://github.com/MengChiehLiu/Instagram_Comment_Robot_Ver.1
+可自行加入留言功能，請參考: https://github.com/MengChiehLiu/Instagram-Comment-Robot-Ver.1
