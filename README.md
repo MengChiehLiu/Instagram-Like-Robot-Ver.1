@@ -1,6 +1,6 @@
-# Instgram_Like_Robot_Ver.1
+# Instagram_Like_Robot_Ver.1
 
-自動按讚機器人，一次大約可按36篇愛心。
+Instagram自動按讚機器人，一次大約可按36篇愛心。
 
 
 # 環境資訊:
