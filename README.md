@@ -7,6 +7,8 @@
 
 python == 3.8.10
 
+google chrome == 95.0.4638.54
+
 chromedriver.exe == 94.0.4606.61
 
 
